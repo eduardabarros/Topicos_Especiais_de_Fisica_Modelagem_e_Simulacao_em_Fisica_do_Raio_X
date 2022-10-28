@@ -8,4 +8,4 @@ Professor: Luis Fernando
 
 Período: 2022.2
 
-Objetivo:
+Objetivos: Princípios de Modelagem e Simulação, Princípios da Técnica de Monte Carlo, Interação da Radiação X com a Matéria, Introdução a Línguagem C/C++, Projeto de Simulação.
