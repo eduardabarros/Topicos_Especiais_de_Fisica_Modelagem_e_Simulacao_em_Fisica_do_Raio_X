@@ -29,6 +29,11 @@
 
 	return 0;
 		
+	// Variáveis:
+	// Caracter: char (8 bits)
+	// Inteiro: short int (16 bits), int (32 bits), long int (64 bits)
+	// Real: float (32 bits), double (64 bits), long double (80 bits)
+		
 	// Uerj - 08 de novembro de 2022
 
 	}
