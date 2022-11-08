@@ -28,5 +28,7 @@
 	cout << endl << "O resultado da soma dos números digitados é:  "<< c << endl << endl;
 
 	return 0;
+		
+	// Uerj - 08 de novembro de 2022
 
 	}
