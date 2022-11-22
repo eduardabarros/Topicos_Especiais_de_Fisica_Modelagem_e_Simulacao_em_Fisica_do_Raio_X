@@ -29,7 +29,7 @@
 
 	// Resultado
 
-	cout << endl << "O resultado da soma dos números digitados é:  "<< c << endl << endl;
+	cout << endl << "O resultado da soma dos números digitados é:  " << c << endl << endl;
 
 	return 0;
 
