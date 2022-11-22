@@ -64,4 +64,6 @@
 	
 	}
 
+	// srand pega a semente do código (neste caso a hora do computador) e faz um sorteio dos valores que serão impressos na tela
+
         // Uerj - 22 de novembro de 2022
