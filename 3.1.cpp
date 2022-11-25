@@ -25,7 +25,7 @@
 		
 	srand(time(NULL));
 
-	a = b = c = 0;		// 'c' receb o valor zero, 'b' copia o valor de 'c', e 'a' copia o valor de 'b'.
+	a = b = c = 0;		// 'c' recebe o valor zero, 'b' copia o valor de 'c', e 'a' copia o valor de 'b'.
 
 	for ( i=0; i<n; i++ ) {
 
