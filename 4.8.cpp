@@ -36,7 +36,7 @@
 	delete [] mat; }
 
 	return 0;
-
+ 
 	}
 
         // Uerj - 06 de dezembro de 2022
